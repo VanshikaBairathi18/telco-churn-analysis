@@ -8,7 +8,7 @@
 ## Objective
 To analyze churn patterns in a telecom company.
 
-## 🔧 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Seaborn & Matplotlib
